@@ -1,0 +1,49 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Inconnu(e) </title></head><body>
+<p>| 
+------------ | ------------
+MOC | [[MOC/FPV]]
+Project | [[FPV (Projet)]]
+Template | [[_Templates/Note permanente]]
+Source | [[AUGST-MERELLE Alexandra]]</p>
+<h1 id="fpv">FPV</h1>
+<h2 id="hardware">Hardware</h2>
+<h3 id="sonoff">Sonoff</h3>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"hardware") AND contains(keywords,"sonoff")
+sort type, file.name</code></p>
+<h3 id="esp32">esp32</h3>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"hardware") AND contains(keywords,"esp32")
+sort type, file.name</code></p>
+<h3 id="autres">Autres</h3>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"hardware") 
+AND !contains(keywords,"esp32")
+AND !contains(keywords,"sonoff")
+sort type, file.name</code></p>
+<h2 id="firmware">Firmware</h2>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"firmware")
+sort type, file.name</code></p>
+<h2 id="software">Software</h2>
+<h3 id="flasher-le-firmware">Flasher le firmware</h3>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"flash")
+sort type, file.name</code></p>
+<h3 id="software_1">Software</h3>
+<p><code>dataview
+list
+from "Archive/Notes permanentes" AND [[Domotique (Projet)]]
+where contains(keywords,"software")
+sort type, file.name</code></p>
+</body></html>

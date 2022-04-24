@@ -1,0 +1,22 @@
+{
+  "obsidianCss": true,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Seeds",
+  "attachmentFolderPath": "_Assets",
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

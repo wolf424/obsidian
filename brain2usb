@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo rm -Rf "/media/usb/brain/Second brain"
+sudo cp -Rv "/home/alexandra/Documents/_vault/Second\ brain" "/media/usb/brain/"

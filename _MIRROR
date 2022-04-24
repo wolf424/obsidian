@@ -1,0 +1,12 @@
+CLIENT_DIR=
+/home/alexandra/Documents/_vault
+is a mirror from
+SERVER_BASE=
+/mnt/nfs
+CLIENT_BASE=
+/home/alexandra/Documents
+
+Use command /home/alexandra/Documents/MIRRORS_UPDATE] to update
+/usr/local/bin/mirror_update is needed
+Last mirror update:
+lundi 21 juin 2021, 02:55:47 (UTC+0200)

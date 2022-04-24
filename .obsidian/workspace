@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "63be711cc794fc8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "191b788e29e3c37b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second brain/Archive/Notes littéraires/Formations pro/2020-06-24 FC CIDFF Violences conjugales.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "827f7854df3c7879",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d3c18c3a343644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16140965713cdfb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66ec00d3e2bf1e2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "téléphone",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4ad22a7882fa20e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e435bec5a969cac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a90e3d59e847273",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second brain/Archive/Notes littéraires/Formations pro/2020-06-24 FC CIDFF Violences conjugales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "191b788e29e3c37b",
+  "lastOpenFiles": [
+    "Second brain/Archive/Notes littéraires/Formations pro/2020-06-24 FC CIDFF Violences conjugales.md",
+    "Second brain/Archive/Notes permanentes/Psy/Mineur.md",
+    "Second brain/Archive/Notes permanentes/Psy/Emprise.md",
+    "Second brain/Archive/Notes permanentes/Psy/Mémo de vie.md",
+    "Second brain/Archive/Notes permanentes/Psy/Untitled.md",
+    "Second brain/Archive/Notes permanentes/Droit/Notions/Ordonnance de protection.md",
+    "Second brain/Archive/Notes permanentes/Droit/Notions/Mesures de protection (violences conjugales).md",
+    "Second brain/Archive/Notes permanentes/Psy/Violence conjugale.md",
+    "Second brain/Archive/Notes permanentes/Psy/Violence.md",
+    "Second brain/Archive/Notes permanentes/Psy/Violentomètre.md"
+  ]
+}

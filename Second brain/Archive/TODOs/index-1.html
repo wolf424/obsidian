@@ -1,0 +1,51 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Inconnu(e) </title></head><body>
+<p>%%
+keywords: englobants
+%%
+ | 
+------------ | ------------
+MOC | [[MOC/EUKARYA]] [[MOC/DRONES]] [[MOC/FPV]]
+Project |
+Template | [[_Templates/Note permanente]]
+Source | [[AUGST-MERELLE Alexandra]]</p>
+<h1 id="fpv-projet">FPV (Projet)</h1>
+<h2 id="todo">TODO</h2>
+<p><code>dataview
+list
+from "_Projects"
+where contains(keywords,"FPV")
+where type="todolist"
+sort type, file.name</code></p>
+<h2 id="pages-principales">Pages principales</h2>
+<p><code>dataview
+list file.path
+from "Archive/Notes permanentes"
+where contains(keywords,"FPV")
+where file.name="_index"
+sort type, file.name</code></p>
+<h2 id="projets">Projets</h2>
+<p><code>dataview
+list
+where type="project"
+where contains(keywords,"FPV")
+sort type, file.name</code></p>
+<h2 id="notes-litteraires">Notes littéraires</h2>
+<p><code>dataview
+table type
+from "Archive/Notes littéraires"
+AND [[_Projects/FPV (Projet)]]
+sort type, file.name</code></p>
+<h2 id="notes-permanentes">Notes permanentes</h2>
+<p><code>dataview
+table type
+from "Archive/Notes permanentes"
+AND [[_Projects/FPV (Projet)]]
+sort type, file.name</code></p>
+<h2 id="notes-en-draft">Notes en draft</h2>
+<p><code>dataview
+table type, keywords
+from "Archive/Notes permanentes"
+AND [[_Projects/FPV (Projet)]]
+where status="draft"
+sort type, file.name</code></p>
+</body></html>

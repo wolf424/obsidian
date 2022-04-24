@@ -1,0 +1,17 @@
+.markdown-preview-view .tag {
+    display: none;
+}
+
+div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-hmd-frontmatter:not(.cm-formatting) {
+    font-size: 0;
+}
+
+div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-hmd-frontmatter:not(.cm-formatting)::after {
+    content: 'metadata';
+    font-family: "Source Code Pro", monospace;
+    color: var(--text-inline-code);
+    font-size: 1rem;
+    background-color: var(--background-inline-code);
+    border: 1px solid var(--border-inline-code);
+    padding: 1px 2px;
+}
