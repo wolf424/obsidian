@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d24fcffc8c06f310",
+        "id": "82d5e753fb4aa011",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Archive/Notes littéraires/current/Formations/2022-04-24 git.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -108,6 +108,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "17c27ba99ce87fdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Archive/Notes littéraires/current/Formations/2022-04-24 git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -115,17 +127,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d24fcffc8c06f310",
+  "active": "82d5e753fb4aa011",
   "lastOpenFiles": [
     "Archive/Notes littéraires/current/Formations/2022-04-24 git.md",
+    "Archive/Notes littéraires/current/Formations/2022-04-24 git/git-commands.jpg",
+    "_Seeds/Untitled.md",
     "Archive/Notes littéraires/current/Formations/2021-09-02 Thérapies brèves.md",
     "Excalidraw/Drawing 2022-04-24 18.34.40.excalidraw.md",
     "Archive/Notes permanentes/old/Domotique/Hardware/Sonoff/Sonoff 1CH Basic.md",
     "Archive/Notes permanentes/old/Psy/Psy (index).md",
     "Archive/Notes permanentes/current.md",
     "Archive/Projets/old/Drones (Projet).md",
-    "Archive/Projets/old/Domotique (Projet).md",
-    "Archive/Projets/old/cpp (Projet).md",
-    "Archive/Projets/old/Dev (Projet).md"
+    "Archive/Projets/old/Domotique (Projet).md"
   ]
 }
